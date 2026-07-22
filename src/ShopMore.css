@@ -1,0 +1,67 @@
+.shopmore-page {
+  background: #F4F1EA;
+  padding: 4rem 1.5rem 3rem;
+}
+
+.shopmore-header {
+  max-width: 700px;
+  margin: 0 auto 2rem;
+}
+
+.shopmore-heading {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.2rem;
+  color: #2E241C;
+  margin: 0.5rem 0 0.75rem;
+}
+
+.shopmore-subtext {
+  color: #6B6259;
+  line-height: 1.5;
+}
+
+.shopmore-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: center;
+  max-width: 1100px;
+  margin: 0 auto 2.5rem;
+}
+
+.shopmore-search {
+  padding: 0.6rem 0.9rem;
+  border: 1px solid #D8D0C2;
+  background: #FFFDF9;
+  font-size: 0.9rem;
+  min-width: 220px;
+}
+
+.shopmore-sort {
+  padding: 0.6rem 0.9rem;
+  border: 1px solid #D8D0C2;
+  background: #FFFDF9;
+  font-size: 0.9rem;
+}
+
+.shopmore-price-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.85rem;
+  color: #2E241C;
+}
+
+.shopmore-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.shopmore-empty {
+  text-align: center;
+  color: #9E9384;
+  margin-top: 2rem;
+}
