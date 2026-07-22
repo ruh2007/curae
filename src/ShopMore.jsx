@@ -16,7 +16,7 @@ const products = [
   { id: 9, name: 'Harvest Oak Dining Table', price: 999, category: 'Dining', image: 'https://i.pinimg.com/1200x/34/fe/d9/34fed998886cc13eb56b404f5d3d6e5a.jpg' },
   { id: 10, name: 'Rowan Dining Chair', price: 149, category: 'Dining', image: 'https://i.pinimg.com/736x/59/5a/e6/595ae66567b48dfb6669594050be3707.jpg' },
   { id: 11, name: 'Terra Ceramic Vase', price: 59, category: 'Decor', image: 'https://i.pinimg.com/736x/f4/91/4f/f4914fd99dc67763b3e82749e3cae7af.jpg' },
-  { id: 12, name: 'Moonfold Wall Mirror', price: 249, category: 'Decor', image: 'https://i.pinimg.com/736x/e7/59/33/e75933135d7ab993cf7b1db15fae5de9.jp=g' },
+  { id: 12, name: 'Moonfold Wall Mirror', price: 249, category: 'Decor', image: 'https://i.pinimg.com/736x/e7/59/33/e75933135d7ab993cf7b1db15fae5de9.jpg' },
 ]
 
 function ShopMore() {
